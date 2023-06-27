@@ -4,4 +4,6 @@
 
 #### Instructions 
 
-Following the class example, create a function that returns the price, names of origin and arrival airports and the name of the company. Do it for all the flights between two dates that cost the same.
+- Work on any API from rapidapi.com.
+- Practice dealing with json files
+- Gather useful information and data. 
